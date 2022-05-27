@@ -3,9 +3,9 @@
 
 My name is Felipe Coutinho 🇧🇷
 
- 💻 I'm a systems analyst working as a front-end developer job
+ 💻 I'm a systems analyst working as a front-end developer
 
-📚 I'm currently learning ReactJS and NextJs
+📚 I'm currently learning React and Next.js
 
 📍 From Umuarama - PR
 
